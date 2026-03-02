@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+⚡ ElectraStock Pro
 
-# Run and deploy your AI Studio app
+Smart Stock Management & POS System
+ElectraStock Pro is a modern web-based Stock Management and POS system built for retail businesses. It simplifies inventory tracking, billing, reporting, and business insights through a clean and efficient interface.
 
-This contains everything you need to run your app locally.
+🚀 Features
+📦 Variant-Level Inventory Tracking
+🏷 Dynamic Category & Attribute System
+📊 Real-Time Dashboard & Analytics
+📈 Sales & Inventory Reports
+🔔 Low Stock Alerts
+👥 Role-Based User Management
+🤖 AI-Powered Business Insights
+☁ Cloud-Based Backend (Google Sheets + Apps Script)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mLEM3tTnCJPSQvY40YfhxX0vu-5Pcz8M
+🛠 Tech Stack
+Frontend: React (Google AI Studio)
+Backend: Google Apps Script
+Database: Google Sheets
+Deployment: Web Application
 
-## Run Locally
+🎯 Key Highlights
+Designed for real retail shop usage
+Optimized for fast billing workflows
+Simple and user-friendly UI
+Built with scalability and automation in mind
 
-**Prerequisites:**  Node.js
+📌 Future Improvements
+Barcode Scanner Integration
+Advanced GST Reports
+Multi-Branch Management
+Mobile POS Version
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+👨‍💻 Author
+Developed as a real-world business solution and academic project.
