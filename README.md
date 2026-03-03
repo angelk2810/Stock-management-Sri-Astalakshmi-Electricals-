@@ -1,35 +1,76 @@
-⚡ ElectraStock Pro
+# ⚡ ElectraStock Pro  
+### Smart Stock Management & POS System
 
-Smart Stock Management & POS System
-ElectraStock Pro is a modern web-based Stock Management and POS system built for retail businesses. It simplifies inventory tracking, billing, reporting, and business insights through a clean and efficient interface.
+<p align="center">
+  <b>A Modern Retail Inventory & Billing Solution</b><br/>
+  Built for real-world business usage with scalability and automation in mind.
+</p>
 
-🚀 Features
-📦 Variant-Level Inventory Tracking
-🏷 Dynamic Category & Attribute System
-📊 Real-Time Dashboard & Analytics
-📈 Sales & Inventory Reports
-🔔 Low Stock Alerts
-👥 Role-Based User Management
-🤖 AI-Powered Business Insights
-☁ Cloud-Based Backend (Google Sheets + Apps Script)
+---
 
-🛠 Tech Stack
-Frontend: React (Google AI Studio)
-Backend: Google Apps Script
-Database: Google Sheets
-Deployment: Web Application
+## 🚀 Overview
 
-🎯 Key Highlights
-Designed for real retail shop usage
-Optimized for fast billing workflows
-Simple and user-friendly UI
-Built with scalability and automation in mind
+ElectraStock Pro is a web-based Stock Management and POS system designed for retail businesses.  
+It provides fast billing, variant-level inventory tracking, real-time analytics, and business insights — all in a clean and efficient interface.
 
-📌 Future Improvements
-Barcode Scanner Integration
-Advanced GST Reports
-Multi-Branch Management
-Mobile POS Version
+---
 
-👨‍💻 Author
-Developed as a real-world business solution and academic project.
+## ✨ Features
+
+- 📦 Variant-Level Inventory Management  
+- 🏷 Dynamic Category & Attribute System  
+- 🧾 Fast POS Billing with GST Calculation  
+- 📊 Real-Time Dashboard Analytics  
+- 📈 Sales & Inventory Reports  
+- 🔔 Low Stock Alerts  
+- 👥 Role-Based User Management  
+- 🤖 AI-Powered Business Insights  
+- ☁ Cloud-Based Backend Integration  
+
+---
+
+## 🖥 Modules
+
+- 📊 Dashboard  
+- 🛒 Point of Sale (Billing)  
+- 📦 Inventory Management  
+- 📑 Reports  
+- 🤖 AI Insights  
+- 👥 User Management  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React (Google AI Studio)  
+**Backend:** Google Apps Script  
+**Database:** Google Sheets (Cloud-Based)  
+**Deployment:** Web Application  
+
+---
+
+## 🎯 Key Highlights
+
+- Designed for retail shop environments  
+- Optimized for speed and simplicity  
+- Built with scalable architecture  
+- Supports structured product variants  
+- Business-ready workflow  
+
+---
+
+## 🔮 Future Enhancements
+
+- Barcode Scanner Integration  
+- Advanced GST & Financial Reports  
+- Multi-Branch Management  
+- Database Migration (Supabase / MongoDB)  
+- Mobile POS Version  
+
+---
+
+## 👨‍💻 Developer
+
+Developed as a real-world business solution and full-stack academic project.
+
+---
